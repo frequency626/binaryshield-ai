@@ -3,10 +3,6 @@ import subprocess
 import os
 from deepai import DeepAI
 
-# Keys
-BOT_TOKEN = "8350091765:AAHvwltUWQzJn3xYg22gEHzRSIUEO-n32xA"
-DEEPAI_KEY = "62ca4f9b-c097-46b3-ad2d-90ecf9631dbd"
-OWNER_ID = 7983114161
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
